@@ -222,6 +222,9 @@ body {
     color: #EAE7DC;
 
 }
+.health_news{
+    color: #EAE7DC;
+}
 
 h3 {
     color: white;
@@ -246,3 +249,4 @@ h3 {
 .news_publishedAt {
     display: inline-block;
     color: white;
+}
